@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 """Review API Module"""
 from api.v1.views import app_views
 from models import storage
